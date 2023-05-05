@@ -39,7 +39,7 @@
       <td>{'nombre': 'Juan', 'edad': 25}, {'producto': 'manzana', 'precio': 1.5}</td>
     </tr>
     <tr>
-      <td colspan="2">Operadores</td>
+      <td colspan="2" style="text-align:center;">Operadores</td>
     </tr>
     <tr>
       <td>Aritméticos</td>
@@ -54,7 +54,7 @@
       <td>and, or, not</td>
     </tr>
     <tr>
-      <td colspan="2">Condicionales</td>
+      <td colspan="2" style="text-align:center;">Condicionales</td>
     </tr>
     <tr>
       <td>if</td>
@@ -69,7 +69,7 @@
       <td>if x &gt; 5: print("x es mayor que 5") else: print("x es menor o igual a 5")</td>
     </tr>
     <tr>
-      <td colspan="2">Bucles</td>
+      <td colspan="2" style="text-align:center;">Bucles</td>
     </tr>
     <tr>
       <td>for</td>
@@ -80,7 +80,7 @@
       <td>while x &lt; 10: print(x)</td>
     </tr>
     <tr>
-      <td colspan="2">Funciones</td>
+      <td colspan="2" style="text-align:center;">Funciones</td>
     </tr>
     <tr>
       <td>Definición</td>
@@ -90,7 +90,7 @@
       <td>Llamada</td>
       <td>suma(2, 3)</td>
      <tr>
-      <td colspan="2">Objetos</td>	
+      <td colspan="2" style="text-align:center;">Objetos</td>	
      </tr>
       <tr>
        <td>Creación</td>	
