@@ -1,5 +1,4 @@
-<h2>Este Repositorio es de ejercicios para practicar con Python.</h2>
-
+<h2>Este Repositorio es de ejercicios para practicar con Python.</h2>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
