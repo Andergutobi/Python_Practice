@@ -23,7 +23,7 @@
       <td>1.0, 2.5, 3.1416</td>
     </tr>
     <tr>
-      <td>Cadenas de texto</td>
+      <td>Cadenas de texto (str)</td>
       <td>'Hola', "Mundo", '123'</td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@
       <td>and, or, not</td>
     </tr>
     <tr>
-      <td>Condicionales</td>
+      <td colspan="2">Condicionales</td>
     </tr>
     <tr>
       <td>if</td>
@@ -69,7 +69,7 @@
       <td>if x &gt; 5: print("x es mayor que 5") else: print("x es menor o igual a 5")</td>
     </tr>
     <tr>
-      <td>Bucles</td>
+      <td colspan="2">Bucles</td>
     </tr>
     <tr>
       <td>for</td>
@@ -80,7 +80,7 @@
       <td>while x &lt; 10: print(x)</td>
     </tr>
     <tr>
-      <td>Funciones</td>
+      <td>Funciones colspan="2"</td>
     </tr>
     <tr>
       <td>Definición</td>
@@ -90,7 +90,7 @@
       <td>Llamada</td>
       <td>suma(2, 3)</td>
      <tr>
-      <td>Objetos</td>	
+      <td>Objetos colspan="2"</td>	
      </tr>
       <tr>
        <td>Creación</td>	
