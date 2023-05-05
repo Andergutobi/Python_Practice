@@ -39,7 +39,7 @@
       <td>{'nombre': 'Juan', 'edad': 25}, {'producto': 'manzana', 'precio': 1.5}</td>
     </tr>
     <tr>
-      <td>Operadores</td>
+      <td colspan="2">Operadores</td>
     </tr>
     <tr>
       <td>Aritméticos</td>
@@ -80,7 +80,7 @@
       <td>while x &lt; 10: print(x)</td>
     </tr>
     <tr>
-      <td>Funciones colspan="2"</td>
+      <td colspan="2">Funciones</td>
     </tr>
     <tr>
       <td>Definición</td>
@@ -90,7 +90,7 @@
       <td>Llamada</td>
       <td>suma(2, 3)</td>
      <tr>
-      <td>Objetos colspan="2"</td>	
+      <td colspan="2">Objetos</td>	
      </tr>
       <tr>
        <td>Creación</td>	
