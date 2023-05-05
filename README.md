@@ -40,7 +40,6 @@
     </tr>
     <tr>
       <td>Operadores</td>
-      <td>Ejemplos</td>
     </tr>
     <tr>
       <td>Aritméticos</td>
@@ -56,7 +55,6 @@
     </tr>
     <tr>
       <td>Condicionales</td>
-      <td>Ejemplos</td>
     </tr>
     <tr>
       <td>if</td>
@@ -72,7 +70,6 @@
     </tr>
     <tr>
       <td>Bucles</td>
-      <td>Ejemplos</td>
     </tr>
     <tr>
       <td>for</td>
@@ -84,12 +81,24 @@
     </tr>
     <tr>
       <td>Funciones</td>
-      <td>Ejemplos</td>
     </tr>
     <tr>
       <td>Definición</td>
       <td>def suma(a, b): return a + b</td>
     </tr>
     <tr>
-      <td>Llamada
-
+      <td>Llamada</td>
+      <td>suma(2, 3)</td>
+     <tr>
+      <td>Objetos</td>	
+     </tr>
+      <tr>
+       <td>Creación</td>	
+       <td>class Persona: def init(self, nombre): self.nombre = nombre p = Persona('Juan')</td>
+      </tr>
+      <tr>
+        <td>Atributos</td>
+	       <td>p.nombre</td>
+      </tr>
+         <td>Métodos</td>
+	        <td>def saludar(self): print("Hola, mi nombre es", self.nombre) p.saludar()</td>
