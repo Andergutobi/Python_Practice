@@ -40,6 +40,9 @@
           <td>Diccionarios</td>
           <td>{'nombre': 'Juan', 'edad': 25}, {'producto': 'manzana', 'precio': 1.5}</td>
         </tr>
+     </tbody>
+   </table>
+   <table>
         <thead>
             <tr>
               <th>Operadores</th>
