@@ -1,4 +1,4 @@
-<span>Este Repositorio es de ejercicios para practicar con Python<img src="https://fontawesome.com/icons/python?f=brands&s=solid">.
+<span>Este Repositorio es de ejercicios para practicar con Python.
 </span>
 
 
