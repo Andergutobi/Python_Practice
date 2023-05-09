@@ -1,0 +1,7 @@
+str = input()
+def alphabetSoup(str):
+    sorted_chars = sorted(str)
+    sorted_str = ''.join(sorted_chars)
+    return sorted_str
+
+print(alphabetSoup(str))
