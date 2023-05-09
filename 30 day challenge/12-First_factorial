@@ -1,1 +1,10 @@
+number = int(input())
 
+def factorial(num):
+    product = 1
+    for i in range(num, 0, -1):
+        product *= i
+    return product
+
+
+print(factorial(number))
